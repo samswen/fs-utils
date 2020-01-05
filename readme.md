@@ -1,6 +1,6 @@
 # fs-utils
 
-a useful collection of utils for files and folders operations.
+an useful collection of utils for files and folders operations.
 
 ## how to install
 
