@@ -1,0 +1,36 @@
+{
+  "name": "@samwen/fs-utils",
+  "version": "1.0.0",
+  "description": "a useful collection of utils for files and folders operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samswen/fs-utils.git"
+  },
+  "keywords": [
+    "delete",
+    "list",
+    "all",
+    "files",
+    "folder",
+    "gzip"
+  ],
+  "author": "Sam Wen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samswen/fs-utils/issues"
+  },
+  "homepage": "https://github.com/samswen/fs-utils#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "mocha": "^6.2.2",
+    "sinon": "^8.0.2"
+  }
+}
