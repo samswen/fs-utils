@@ -1,7 +1,7 @@
 {
   "name": "@samwen/fs-utils",
-  "version": "1.0.0",
-  "description": "a useful collection of utils for files and folders operations",
+  "version": "1.0.1",
+  "description": "an useful collection of utils for files and folders operations",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec test"
