@@ -1,6 +1,6 @@
 {
   "name": "@samwen/fs-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "an useful collection of utils for files and folders operations",
   "main": "src/index.js",
   "scripts": {
