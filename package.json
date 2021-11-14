@@ -1,6 +1,6 @@
 {
   "name": "@samwen/fs-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "an useful collection of utils for files and folders operations",
   "main": "src/index.js",
   "scripts": {
@@ -24,13 +24,10 @@
     "url": "https://github.com/samswen/fs-utils/issues"
   },
   "homepage": "https://github.com/samswen/fs-utils#readme",
-  "dependencies": {
-    "fs": "0.0.1-security"
-  },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "eslint": "^6.8.0",
-    "mocha": "^6.2.3",
-    "sinon": "^8.1.1"
+    "chai": "^4.3.4",
+    "eslint": "^8.2.0",
+    "mocha": "^9.1.3",
+    "sinon": "^12.0.1"
   }
 }
